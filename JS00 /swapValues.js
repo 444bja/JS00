@@ -4,3 +4,6 @@ var a = 20
 var b = 10
 console.log("new value of a: " + a)
 console.log("new value of b: " + b)
+
+
+
